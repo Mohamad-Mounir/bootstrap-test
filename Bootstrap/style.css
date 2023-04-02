@@ -1,0 +1,15 @@
+.two {
+    justify-content: center;
+    gap: 10px;
+}
+
+.three { 
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+}
